@@ -7,13 +7,11 @@ font-family: 'WindSong', cursive;*/
 /*font-family: 'Noto Sans', sans-serif;*/
 
 
-
-
 /*regarding the body*/
 body{
   	color: black;
 	font-family: 'Noto Sans', sans-serif;
-	background-color: #dee9ff;
+	background-color: #f8eff3; /*#dee9ff;*/
 }
 
 h1{
@@ -23,7 +21,7 @@ h1{
 
 /*regarding the ui-bar*/
 #ui-bar {  
-	background-color: #9bb8ff;
+	background-color: #b7a9fe ;/*#9bb8ff;*/
 }
 #story-title {
 	font-family: 'Arizonia', cursive;
