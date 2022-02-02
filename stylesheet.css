@@ -67,7 +67,7 @@ input, select, textarea {
 
 input:not(:disabled):focus, select:not(:disabled):focus, textarea:not(:disabled):focus,
 input:not(:disabled):hover, select:not(:disabled):hover, textarea:not(:disabled):hover {
-	background-color: #b7a9fe;
+	background-color: #917cc9;
 	border-color: #eee;
 }
 
