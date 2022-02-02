@@ -1,5 +1,7 @@
 /*fonts*/
-@import url('https://fonts.googleapis.com/css2?family=Arizonia&family=WindSong&display=swap');		/*font-family: 'Arizonia', cursive;
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&family=WindSong&display=swap');
+
+/*font-family: 'Arizonia', cursive;
 font-family: 'WindSong', cursive;*/
 
 
@@ -10,7 +12,6 @@ font-family: 'WindSong', cursive;*/
 /*regarding the body*/
 body{
   	color: black;
-	/*font-family: 'WindSong', cursive;*/
 	background-color: #dee9ff;
 }
 
