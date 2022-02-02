@@ -1,7 +1,16 @@
+/*fonts*/
+@import url('https://fonts.googleapis.com/css2?family=WindSong&display=swap'); /*WindSong*/
+
+
+
+
+
+
 
 /*regarding the body*/
 body{
   	color: black;
+	font-family: "WindSong";
 	background-color: #dee9ff;
 }
 
