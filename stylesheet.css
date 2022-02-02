@@ -32,6 +32,10 @@ a {
 #ui-bar {  
 	background-color: #b7a9fe ;/*#9bb8ff;*/
 }
+#ui-dialog-titlebar {
+	background-color: #b7a9fe;
+	min-height: 24px;
+}
 #ui-dialog {
 	color: white;
 	display: none;
@@ -41,6 +45,13 @@ a {
 	top: 50px;
 	margin: 0;
 	padding: 0;
+}
+#ui-dialog-body {
+	background-color: #7a49be;
+	border: 1px solid #444;
+	text-align: left;
+	line-height: 1.5;
+	padding: 1em;
 }
 #ui-dialog-title {
 	font-family: 'Noto Sans', sans-serif;
