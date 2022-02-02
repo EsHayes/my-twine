@@ -1,10 +1,10 @@
 /*fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Arizonia&family=WindSong&display=swap');
-
 /*font-family: 'Arizonia', cursive;
 font-family: 'WindSong', cursive;*/
 
-
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/*font-family: 'Noto Sans', sans-serif;*/
 
 
 
@@ -12,6 +12,7 @@ font-family: 'WindSong', cursive;*/
 /*regarding the body*/
 body{
   	color: black;
+	font-family: 'Noto Sans', sans-serif;
 	background-color: #dee9ff;
 }
 
