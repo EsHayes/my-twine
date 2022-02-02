@@ -16,7 +16,8 @@ body{
 h1{
 	font-family: 'WindSong', cursive;
 	color: #461b77;
-	font-size: 3em;
+	/*font-size: 3em;*/
+	font-size: 150%;
 }
 a {
 	color: #9f79fe;
