@@ -1,0 +1,27 @@
+
+/*regarding the body*/
+body{
+  	color: black;
+	background-color: #dee9ff;
+}
+
+h1{
+  	font-family: "Helvetica", sans-serif;
+	color: #461b77;
+}
+
+h2{
+	color: cornflowerblue;
+}
+
+/*regarding the ui-bar*/
+#ui-bar {  
+	background-color: #9bb8ff;
+}
+
+
+/*regarding DETAILS*/
+/*settings*/
+html.widescreen #passages {
+	max-width: none;
+}
