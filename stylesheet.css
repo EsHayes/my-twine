@@ -1,5 +1,5 @@
 /*fonts*/
-@import url('https://fonts.googleapis.com/css2?family=WindSong&display=swap'); /*WindSong*/
+@import url('https://fonts.googleapis.com/css2?family=WindSong&display=swap');		/*WindSong*/
 
 
 
@@ -14,7 +14,7 @@ body{
 }
 
 h1{
-	font-family: "WindSong";
+	font-family: 'WindSong', cursive;
 	color: #461b77;
 }
 
