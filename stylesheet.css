@@ -58,11 +58,11 @@ a {
 
 
 /*regarding buttons and related interactive macros*/
-input:not(:disabled):focus, select:not(:disabled):focus, textarea:not(:disabled):focus,
-input:not(:disabled):hover, select:not(:disabled):hover, textarea:not(:disabled):hover {
-	background-color: #461b77;
+input, select, textarea {
 	color: white;
-	border-color: #eee;
+	background-color: #461b77;
+	border: 1px solid #444;
+	padding: 0.4em;
 }
 
 
