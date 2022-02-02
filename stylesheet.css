@@ -57,6 +57,13 @@ a {
 
 
 
+/*regarding buttons and related interactive macros*/
+input:not(:disabled):focus, select:not(:disabled):focus, textarea:not(:disabled):focus,
+input:not(:disabled):hover, select:not(:disabled):hover, textarea:not(:disabled):hover {
+	background-color: #461b77;
+	color: white;
+	border-color: #eee;
+}
 
 
 /*regarding DETAILS*/
