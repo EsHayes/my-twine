@@ -13,11 +13,13 @@ body{
 	font-family: 'Noto Sans', sans-serif;
 	background-color: #f8eff3; /*#dee9ff;*/
 }
-
 h1{
 	font-family: 'WindSong', cursive;
 	color: #461b77;
 	font-size: 4em;
+}
+a {
+	color: #9f79fe;
 }
 
 /*regarding the ui-bar & other related functionalities*/
