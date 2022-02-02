@@ -23,6 +23,11 @@ h1{
 #ui-bar {  
 	background-color: #9bb8ff;
 }
+#story-title {
+	font-family: 'Curlz MT';
+	font-size: 162.5%;
+}
+
 
 
 /*regarding DETAILS*/
