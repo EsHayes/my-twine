@@ -1,6 +1,6 @@
 /*fonts*/
-@import url('https://fonts.googleapis.com/css2?family=WindSong&display=swap');		/*WindSong*/
-
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&family=WindSong&display=swap');		/*font-family: 'Arizonia', cursive;
+font-family: 'WindSong', cursive;*/
 
 
 
@@ -10,7 +10,7 @@
 /*regarding the body*/
 body{
   	color: black;
-	font-family: 'WindSong', cursive;
+	/*font-family: 'WindSong', cursive;*/
 	background-color: #dee9ff;
 }
 
@@ -24,8 +24,9 @@ h1{
 	background-color: #9bb8ff;
 }
 #story-title {
-	font-family: 'Curlz MT';
-	font-size: 162.5%;
+	font-family: 'Arizonia', cursive;
+	font-size: 180.0%;
+  	color: #461b77;
 }
 
 
