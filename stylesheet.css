@@ -1,3 +1,4 @@
+
 /*fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Arizonia&family=WindSong&display=swap');
 /*font-family: 'Arizonia', cursive;
@@ -6,7 +7,7 @@ font-family: 'WindSong', cursive;*/
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 /*font-family: 'Noto Sans', sans-serif;*/
 
-
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap'); /*font-family: 'Birthstone', cursive;*/
 
 
 /*regarding the body*/
@@ -32,16 +33,17 @@ a {
 /*regarding the ui-bar & other related functionalities*/
 #story-title {
 	font-family: 'Arizonia', cursive;
-	font-size: 180.0%;
+	font-size: 30px;
   	color: #461b77;
 }
 #ui-bar {  
-	background-color: #b7a9fe;
+	background-color: #af9fe8; /*#b7a9fe;*/
 }
 #ui-dialog {
 	color: white;
 	display: none;
 	opacity: 0;
+	line-height: 0px;
 	z-index: 100100;
 	position: fixed;
 	top: 50px;
