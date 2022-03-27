@@ -1,3 +1,5 @@
+/*@import url("https://eshayes.github.io/my-twine/stylesheet.css");*/
+
 
 
 /*fonts*/
@@ -63,6 +65,10 @@ a {
 #ui-dialog-titlebar {
 	background-color: #461b77;
 	height: 40px;
+}
+#ui-dialog-body ul.buttons > li + li > button {
+	margin-left: 1em;
+	background-color: #af9fe8;
 }
 
 /*regarding buttons and related interactive macros*/
