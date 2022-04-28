@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&family=WindSong:wght@400;500&display=swap');
+/*
+font-family: 'Arizonia', cursive;
+font-family: 'WindSong', cursive;
+*/
+
+
+
+
+/*-----HOMEPAGE-----*/
+.homepage{
+  text-align: center;
+  padding: 0%;
+  margin: 0%;
+}
+
+h1{
+  color: #660033;
+  font-family: WindSong;
+  font-weight: Medium 500;
+  font-size: 250%;
+  padding-bottom: 2%;
+  padding-top: 1%;
+  margin: 0;
+}
+
+#front_img{
+  width:30%;
+  height:30%;
+}
+
+.menu{
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menu_item{
+  margin: 2%;
+  padding-left: 0;
+  width: 8%;
+  text-align: center;
+}
+
+.center {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+
+
+
+/*-----STORY PAGE-----*/
+tw-story{
+  background-color: #f0dbdb;
+  color: #33001a;
+  font-size: 18px;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+}
+
+
+
+
+/*-----CHAPTER TITLES-----*/
+
+.h2_img{
+  width: 20%;
+  height: 20%;
+  display: inline-block;
+}
+
+h2{
+  color: #b30059;
+  font-family:Arizonia;
+  margin: 0;
+}
+
+h3{
+  font-family:Arizonia;
+  color: #e84597;
+  margin-bottom: 0.5%;
+  margin-top: 5%;
+}
+
+
+
+
+/*-----LINKS-----*/
+.enchantment-link, tw-link {
+  font-size: 20px;
+  color: #b30059;
+}
+
+.enchantment-link:hover, tw-link:hover {
+  color: #ff1a8c;
+  font-size: 20px;
+}
+
+.visited {
+  color: #33001a;
+  font-size: 20px;
+}
+.visited:hover {
+  color: #ff1a8c;
+  font-size: 20px;
+}
+
+.in_text{
+	color: #b30059;
+}
+
+tw-hook[name="lowlink"] tw-link, tw-hook[name="lowlink"] .enchantment-link {
+  font-size: 18px;
+}
+
+
+
+
+/*-----SIDEBAR-----*/
+tw-sidebar {
+  display: none;
+}
+
+
+
+
+/*-----FOOTER-----*/
+tw-includes{
+	position:absolute;
+}
+
+.footer{
+  position: fixed;
+  bottom: 0; right: 0; left: 0;
+  padding: 0%;
+  margin: 0%;
+  text-align: center;
+}
+
+#footer_img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.menu_footer{
+  padding: 0;
+  margin-top:0; margin-bottom: 0.5%;
+  margin-left: 10%; margin-right: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menu_item_footer{
+  margin:1.5%;
+  padding-left: 0;
+  width: auto;
+}
