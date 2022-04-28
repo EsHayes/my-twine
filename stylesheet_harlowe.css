@@ -162,3 +162,11 @@ tw-includes{
   padding-left: 0;
   width: auto;
 }
+
+
+
+
+/*-----SIDEBAR-----*/
+div#audio-controls {
+  background: #33001a;
+}
