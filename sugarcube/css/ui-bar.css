@@ -105,9 +105,11 @@
 #ui-bar-history [id|="history"] {
 	font-size: 1.2em;
 	line-height: inherit;
-	color: #eee;
+	/*color: #eee;*/
+	background-color: #33001a;
 	background-color: transparent;
 	border: 1px solid #444;
+	visibility: hidden;
 }
 #ui-bar-toggle {
 	display: block;
