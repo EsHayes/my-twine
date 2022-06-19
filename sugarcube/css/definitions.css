@@ -1,0 +1,14 @@
+/* FONTS */
+
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&family=WindSong:wght@400;500&display=swap');
+/*
+font-family: 'Arizonia', cursive;
+font-family: 'WindSong', cursive;
+*/
+
+
+h1{
+color: #660033;
+  font-family: WindSong;
+  font-weight: Medium 500;
+  }
